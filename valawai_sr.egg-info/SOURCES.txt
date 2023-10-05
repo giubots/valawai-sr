@@ -1,8 +1,0 @@
-pyproject.toml
-valawai_sr/__init__.py
-valawai_sr/config.py
-valawai_sr/text_interface.py
-valawai_sr.egg-info/PKG-INFO
-valawai_sr.egg-info/SOURCES.txt
-valawai_sr.egg-info/dependency_links.txt
-valawai_sr.egg-info/top_level.txt
